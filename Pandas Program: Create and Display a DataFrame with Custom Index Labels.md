@@ -1,4 +1,4 @@
-<img width="523" height="264" alt="568184622-727bf938-7921-43ce-b154-ee5bf682f374" src="https://github.com/user-attachments/assets/b1206e79-da49-4c03-ad4c-7d1926cd02a6" /># Pandas Program: Create and Display a DataFrame with Custom Index Labels
+
 
 ## 🎯 Aim
 
